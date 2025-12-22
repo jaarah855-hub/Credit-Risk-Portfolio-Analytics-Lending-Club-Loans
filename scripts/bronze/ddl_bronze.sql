@@ -22,6 +22,7 @@ CREATE TABLE bronze.loans_raw (
     verified_income VARCHAR(50),
     debt_to_income VARCHAR(50),
     annual_income_joint VARCHAR(50),
+    verification_income_joint VARCHAR(50),
     debt_to_income_joint VARCHAR(50),
     delinq_2y VARCHAR(50),
     months_since_last_delinq VARCHAR(50),
